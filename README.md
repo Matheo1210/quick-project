@@ -37,8 +37,4 @@ npm start
 ```
 
 Cela lancera un serveur de développement et ouvrira votre projet dans le navigateur par défaut.
-
-## Contribuer
-
-Si vous souhaitez contribuer à ce projet, vous êtes les bienvenus ! Vous pouvez ouvrir une issue ou proposer des pull requests pour améliorer le projet.
 ```
