@@ -37,4 +37,3 @@ npm start
 ```
 
 Cela lancera un serveur de développement et ouvrira votre projet dans le navigateur par défaut.
-```
