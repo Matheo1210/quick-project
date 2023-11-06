@@ -8,5 +8,14 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.2",
     "parcel": "^2.10.2"
+  },
+  "parcel": {
+    "entries": {
+      "index.html": {
+        "transformers": {
+          "sass": {}
+        }
+      }
+    }
   }
 }
